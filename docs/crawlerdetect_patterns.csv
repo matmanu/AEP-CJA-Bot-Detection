@@ -1,0 +1,1463 @@
+n,regex_pattern
+1, YLT
+2,^Aether
+3,^Amazon Simple Notification Service Agent$
+4,^Amazon-Route53-Health-Check-Service
+5,^b0t$
+6,^bluefish 
+7,^Calypso v\/
+8,^COMODO DCV
+9,^Corax
+10,^DangDang
+11,^Dart\/[0-9]
+12,^DavClnt
+13,^DHSH
+14,^docker\/[0-9]
+15,^Expanse
+16,^ExposureScanner
+17,^FDM 
+18,^git\/
+19,^Goose\/
+20,^Goosee-Audit
+21,^Grabber
+22,^Gradle\/
+23,^Hello from Palo Alto Networks
+24,^HTTPClient\/
+25,^HTTPing
+26,^Java\/
+27,^Jeode\/
+28,^Jetty\/
+29,^Mail\/
+30,^Mget
+31,^Microsoft URL Control
+32,^Mikrotik\/
+33,^Netlab360
+34,^NG\/[0-9\.]
+35,^NING\/
+36,^npm\/
+37,^Nuclei
+38,^PHP-AYMAPI\/
+39,^PHP\/
+40,^pip\/
+41,^pnpm\/
+42,^RMA\/
+43,^Ruby|Ruby\/[0-9]
+44,^symbolicator\/
+45,^Swurl 
+46,^TLS tester 
+47,^twine\/
+48,^ureq
+49,^visionheight\.com\/scan
+50,^VSE\/[0-9]
+51,^WordPress\.com
+52,^XRL\/[0-9]
+53,^ZmEu
+54,008\/
+55,1Pilot
+56,13TABS
+57,192\.comAgent
+58,2GDPR\/
+59,2ip\.ru
+60,404enemy
+61,7Siters
+62,80legs
+63,a3logics\.in
+64,A6-Indexer
+65,Abonti
+66,Aboundex
+67,aboutthedomain
+68,Accoona-AI-Agent
+69,acebookexternalhit\/
+70,acme\.sectigo\.com
+71,acoon
+72,acrylicapps\.com\/pulp
+73,Acunetix
+74,AdAuth\/
+75,adbeat
+76,AddThis
+77,ADmantX
+78,AdminLabs
+79,adressendeutschland
+80,adreview\/
+81,adscanner
+82,adstxt-worker
+83,Adstxtaggregator
+84,adstxt\.com
+85,Adyen HttpClient
+86,AffiliateLabz\/
+87,affilimate-puppeteer
+88,agentslug
+89,AHC
+90,Ahrefs
+91,aihit
+92,aiohttp\/
+93,Airmail
+94,akka-http\/
+95,akula\/
+96,alertra
+97,alexa site audit
+98,Alibaba\.Security\.Heimdall
+99,Alligator
+100,allloadin
+101,AllSubmitter
+102,alyze\.info
+103,amagit
+104,amphp\/http-client
+105,Anarchie
+106,AndroidDownloadManager
+107,Anemone
+108,AngleSharp
+109,annotate_google
+110,Anthill
+111,Anturis Agent
+112,Ant\.com
+113,AnyEvent-HTTP\/
+114,Apache Ant\/
+115,Apache Droid
+116,Apache OpenOffice
+117,Apache-HttpAsyncClient
+118,Apache-HttpClient
+119,ApacheBench
+120,Apexoo
+121,apimon\.de
+122,APIs-Google
+123,AportWorm\/
+124,AppBeat\/
+125,AppEngine-Google
+126,AppleSyndication
+127,Aprc\/[0-9]
+128,Arachmo
+129,arachnode
+130,Arachnophilia
+131,aria2
+132,Arukereso
+133,asafaweb
+134,Asana\/
+135,Ask Jeeves
+136,AskQuickly
+137,ASPSeek
+138,Asterias
+139,Astute
+140,asynchttp
+141,Attach
+142,attohttpc
+143,autocite
+144,AutomaticWPTester
+145,Autonomy
+146,awin\.com
+147,AWS Security Scanner
+148,axios\/
+149,a\.pr-cy\.ru
+150,B-l-i-t-z-B-O-T
+151,Backlink-Ceck
+152,BacklinkHttpStatus
+153,BackStreet
+154,BackupLand
+155,BackWeb
+156,Bad-Neighborhood
+157,Badass
+158,baidu\.com
+159,Bandit
+160,Barracuda Sentinel \(EE\)
+161,basicstate
+162,BatchFTP
+163,Battleztar Bazinga
+164,baypup\/
+165,BazQux
+166,BBBike
+167,BCKLINKS
+168,BDFetch
+169,BegunAdvertising
+170,Bewica-security-scan
+171,Bidtellect
+172,BigBozz
+173,Bigfoot
+174,biglotron
+175,BingLocalSearch
+176,BingPreview
+177,binlar
+178,biNu image cacher
+179,Bitacle
+180,Bitrix link preview
+181,biz_Directory
+182,BKCTwitterUnshortener\/
+183,Black Hole
+184,Blackboard Safeassign
+185,BlackWidow
+186,BlockNote\.Net
+187,BlogBridge
+188,Bloglines
+189,Bloglovin
+190,BlogPulseLive
+191,BlogSearch
+192,Blogtrottr
+193,BlowFish
+194,boitho\.com-dc
+195,Boost\.Beast
+196,BPImageWalker
+197,Braintree-Webhooks
+198,Branch Metrics API
+199,Branch-Passthrough
+200,Brandprotect
+201,Brandwatch
+202,Brodie\/
+203,Browsershots
+204,BUbiNG
+205,Buck\/
+206,Buddy
+207,BuiltWith
+208,Bullseye
+209,BunnySlippers
+210,Burf Search
+211,Butterfly\/
+212,BuzzSumo
+213,CAAM\/[0-9]
+214,caam dot crwlr at gmail dot com
+215,CakePHP
+216,Calculon
+217,Canary%20Mail
+218,CaretNail
+219,catexplorador
+220,CC Metadata Scaper
+221,Cegbfeieh
+222,censys
+223,centuryb.o.t9[at]gmail.com
+224,Cerberian Drtrs
+225,CERT\.at-Statistics-Survey
+226,cf-facebook
+227,cg-eye
+228,changedetection
+229,ChangesMeter
+230,Charlotte
+231,ChatGPT-User
+232,chatterino-api-cache
+233,CheckHost
+234,checkprivacy
+235,CherryPicker
+236,ChinaClaw
+237,Chirp\/
+238,chkme\.com
+239,Chlooe
+240,Chromaxa
+241,CirrusExplorer
+242,CISPA Vulnerability Notification
+243,CISPA Web Analyser
+244,Citoid
+245,CJNetworkQuality
+246,Clarsentia
+247,Claude-User
+248,claude-web
+249,clips\.ua\.ac\.be
+250,Cloud mapping
+251,CloudEndure
+252,CloudFlare-AlwaysOnline
+253,Cloudflare-Healthchecks
+254,Cloudflare-SSLDetector
+255,Cloudinary
+256,cmcm\.com
+257,coccoc
+258,cognitiveseo
+259,ColdFusion
+260,colly -
+261,CommaFeed
+262,Commons-HttpClient
+263,commonscan
+264,contactbigdatafr
+265,contentkingapp
+266,Contextual Code Sites Explorer
+267,convera
+268,CookieReports
+269,copyright sheriff
+270,CopyRightCheck
+271,Copyscape
+272,cortex\/
+273,Cosmos4j\.feedback
+274,Covario-IDS
+275,Cpanel-HTTP-Client
+276,cpp-httplib
+277,Craw\/
+278,Crescent
+279,Criteo
+280,Crowsnest
+281,CSHttp
+282,CSSCheck
+283,Cula\/
+284,curb
+285,Curious George
+286,curl
+287,cuwhois\/
+288,cybo\.com
+289,DAP\/NetHTTP
+290,DareBoost
+291,DatabaseDriverMysqli
+292,DataCha0s
+293,DatadogSynthetics
+294,Datafeedwatch
+295,Datanyze
+296,DataparkSearch
+297,dataprovider
+298,DataXu
+299,Daum(oa)?[ \/][0-9]
+300,dBpoweramp
+301,ddline
+302,DebugBear$
+303,deeris
+304,delve\.ai
+305,Demon
+306,DeuSu
+307,developers\.google\.com\/\+\/web\/snippet\/
+308,Devil
+309,Digg
+310,Digincore
+311,DigitalPebble
+312,Dirbuster
+313,Discourse Forum Onebox
+314,Dispatch\/
+315,Disqus\/
+316,DittoSpyder
+317,dlvr
+318,DMBrowser
+319,DNSPod-reporting
+320,docoloc
+321,Dolphin http client
+322,DomainAppender
+323,DomainLabz
+324,Domains Project\/
+325,Donuts Content Explorer
+326,dotMailer content retrieval
+327,dotSemantic
+328,downforeveryoneorjustme
+329,Download Wonder
+330,downnotifier
+331,DowntimeDetector
+332,Drip
+333,drupact
+334,Drupal \(\+http:\/\/drupal\.org\/\)
+335,DTS Agent
+336,dubaiindex
+337,DuplexWeb-Google
+338,DynatraceSynthetic
+339,EARTHCOM
+340,Easy-Thumb
+341,EasyDL
+342,Ebingbong
+343,ec2linkfinder
+344,eCairn-Grabber
+345,eCatch
+346,ECCP
+347,eContext\/
+348,Ecxi
+349,EirGrabber
+350,ElectricMonk
+351,elefent
+352,EMail Exractor
+353,EMail Wolf
+354,EmailWolf
+355,Embarcadero
+356,Embed PHP Library
+357,Embedly
+358,endo\/
+359,europarchive\.org
+360,evc-batch
+361,EventMachine HttpClient
+362,Everwall Link Expander
+363,Evidon
+364,Evrinid
+365,ExactSearch
+366,ExaleadCloudview
+367,Excel\/
+368,exif
+369,ExoRank
+370,Exploratodo
+371,Express WebPictures
+372,Extreme Picture Finder
+373,EyeNetIE
+374,ezooms
+375,facebookcatalog
+376,facebookexternalhit
+377,facebookexternalua
+378,facebookplatform
+379,fairshare
+380,Faraday v
+381,fasthttp
+382,Faveeo
+383,Favicon downloader
+384,faviconarchive
+385,faviconkit
+386,FavOrg
+387,FediAct Service
+388,Feed Wrangler
+389,Feedable\/
+390,Feedbin
+391,FeedBooster
+392,FeedBucket
+393,FeedBunch\/
+394,FeedBurner
+395,feeder
+396,Feedly
+397,FeedshowOnline
+398,Feedshow\/
+399,Feedspot
+400,FeedViewer\/
+401,Feedwind\/
+402,FeedZcollector
+403,feeltiptop
+404,Fetch API
+405,Fetch\/[0-9]
+406,Fever\/[0-9]
+407,FHscan
+408,Fiery%20Feeds
+409,Filestack
+410,Fimap
+411,findlink
+412,findthatfile
+413,FlashGet
+414,FlipboardBrowserProxy
+415,FlipboardProxy
+416,FlipboardRSS
+417,Florienzh\/
+418,fluffy
+419,Flunky
+420,flynxapp
+421,foda-scanner\/[0-9]
+422,forensiq
+423,ForusP
+424,FoundSeoTool
+425,fragFINN\.de
+426,free thumbnails
+427,Freeuploader
+428,FreshRSS
+429,frontman
+430,Funnelback
+431,Fuzz Faster U Fool
+432,G-i-g-a-b-o-t
+433,g00g1e\.net
+434,ganarvisitas
+435,gdnplus\.com
+436,GeedoProductSearch
+437,GeedoShopProductFinder
+438,geek-tools
+439,Genieo
+440,GentleSource
+441,GetCode
+442,Getintent
+443,GetLinkInfo
+444,getprismatic
+445,GetRight
+446,getroot
+447,GetURLInfo\/
+448,GetWeb
+449,Geziyor
+450,Ghost Inspector
+451,GigablastOpenSource
+452,GIS-LABS
+453,GitLab\/
+454,github-camo
+455,GitHub-Hookshot
+456,github\.com
+457,Go http package
+458,Go [\d\.]* package http
+459,Go!Zilla
+460,Go-Ahead-Got-It
+461,Go-http-client
+462,go-mtasts\/
+463,gobuster
+464,gobyus
+465,Gofeed
+466,gofetch
+467,Goldfire Server
+468,GomezAgent
+469,gooblog
+470,Goodzer\/
+471,Google AppsViewer
+472,Google Desktop
+473,Google favicon
+474,Google Keyword Suggestion
+475,Google Keyword Tool
+476,Google Page Speed Insights
+477,Google PP Default
+478,Google Search Console
+479,Google Web Preview
+480,Google-Ads
+481,Google-Adwords
+482,Google-AMPHTML
+483,Google-Apps-Script
+484,Google-Calendar-Importer
+485,Google-Firebase
+486,Google-HotelAdsVerifier
+487,Google-HTTP-Java-Client
+488,Google-InspectionTool
+489,Google-Podcast
+490,Google-Publisher-Plugin
+491,Google-Read-Aloud
+492,Google-SearchByImage
+493,Google-Site-Verification
+494,Google-SMTP-STS
+495,Google-speakr
+496,Google-Structured-Data-Testing-Tool
+497,Google-Transparency-Report
+498,google-xrawler
+499,Google-Youtube-Links
+500,GoogleAssociationService
+501,GoogleDocs
+502,GoogleHC\/
+503,GoogleMessages
+504,GoogleOther
+505,GoogleProber
+506,GoogleProducer
+507,GoogleSites
+508,Gookey
+509,GoSpotCheck
+510,gosquared-thumbnailer
+511,Gotit
+512,GoZilla
+513,grabify
+514,GrabNet
+515,Grafula
+516,Grammarly
+517,GrapeFX
+518,GreatNews
+519,Gregarius
+520,GRequests
+521,grokkit
+522,grouphigh
+523,grub-client
+524,gSOAP\/
+525,GT::WWW
+526,GTmetrix
+527,GuzzleHttp
+528,gvfs\/
+529,HAA(A)?RTLAND http client
+530,Haansoft
+531,hackney\/
+532,Hadi Agent
+533,HappyApps-WebCheck
+534,Hardenize
+535,Hatena
+536,HaveInListEnricher
+537,Havij
+538,HaxerMen
+539,HEADMasterSEO
+540,HeartRails_Capture
+541,help@dataminr\.com
+542,heritrix
+543,Hexometer
+544,HF-Research\/
+545,historious
+546,hkedcity
+547,hledejLevne\.cz
+548,Hloader
+549,HMView
+550,Holmes
+551,HonesoSearchEngine
+552,HootSuite Image proxy
+553,Hootsuite-WebFeed
+554,hosterstats
+555,HostTracker
+556,ht:\/\/check
+557,htdig
+558,HTMLparser
+559,htmlyse
+560,HTTP Banner Detection
+561,http-get
+562,HTTP-Header-Abfrage
+563,http-kit
+564,http-request\/
+565,HTTP-Tiny
+566,HTTP::Lite
+567,http:\/\/www.neomo.de\/
+568,HttpComponents
+569,httphr
+570,HTTPie
+571,HTTPMon
+572,httpRequest
+573,httpscheck
+574,httpssites_power
+575,httpunit
+576,HttpUrlConnection
+577,http\.rb\/
+578,HTTP_Compression_Test
+579,http_get
+580,http_request2
+581,http_requester
+582,httrack
+583,huaweisymantec
+584,HubSpot 
+585,HubSpot-Link-Resolver
+586,Humanlinks
+587,i2kconnect\/
+588,IAB-Tech-Lab
+589,Iblog
+590,ichiro
+591,Id-search
+592,IdeelaborPlagiaat
+593,IDG Twitter Links Resolver
+594,IDwhois\/
+595,Iframely
+596,igdeSpyder
+597,iGooglePortal
+598,IlTrovatore
+599,Image Fetch
+600,Image Sucker
+601,ImageEngine\/
+602,ImageVisu\/
+603,Imagga
+604,imagineeasy
+605,imgproxy\/[0-9]
+606,imgsizer
+607,InAGist
+608,inbound\.li parser
+609,InDesign%20CC
+610,Indy Library
+611,InetURL
+612,infegy
+613,infohelfer
+614,InfoTekies
+615,InfoWizards Reciprocal Link
+616,Infrawatch\/[0-9]
+617,inpwrd\.com
+618,instabid
+619,Instapaper
+620,Integrity
+621,integromedb
+622,Intelliseek
+623,InterGET
+624,Internet Ninja
+625,InternetMeasurement
+626,InternetSeer
+627,internetVista monitor
+628,internetwache
+629,internet_archive
+630,intraVnews
+631,IODC
+632,IOI
+633,Inboxb0t
+634,iplabel
+635,ips-agent
+636,IPS\/[0-9]
+637,IPWorks HTTP\/S Component
+638,iqdb\/
+639,Iria
+640,Irokez
+641,isitup\.org
+642,iskanie
+643,isUp\.li
+644,iThemes Sync\/
+645,IZaBEE
+646,iZSearch
+647,JAHHO
+648,janforman
+649,Jaunt\/
+650,Java.*outbrain
+651,javelin\.io
+652,Jbrofuzz
+653,Jersey\/
+654,JetCar
+655,Jigsaw
+656,Jobboerse
+657,JobFeed discovery
+658,Jobg8 URL Monitor
+659,jobo
+660,Jobrapido
+661,Jobsearch1\.5
+662,JoinVision Generic
+663,JolokiaPwn
+664,Joomla
+665,Jorgee
+666,JS-Kit
+667,JungleKeyThumbnail
+668,JustView
+669,Kaspersky Lab CFR link resolver
+670,Kelny\/
+671,Kerrigan\/
+672,KeyCDN
+673,Keyword Density
+674,Keywords Research
+675,khttp\/
+676,KickFire
+677,KimonoLabs\/
+678,Kml-Google
+679,knows\.is
+680,KOCMOHABT
+681,kouio
+682,krawler\.dk
+683,krynos
+684,kube-probe
+685,kubectl
+686,kulturarw3
+687,KumKie
+688,l9tcpid\/
+689,Larbin
+690,Lavf\/
+691,leakix\.net
+692,LeechFTP
+693,LeechGet
+694,letsencrypt
+695,Lftp
+696,LibVLC
+697,LibWeb
+698,Libwhisker
+699,libwww
+700,Licorne
+701,Liferea\/
+702,Lighthouse
+703,Lightspeedsystems
+704,Likse
+705,limber\.io
+706,Link Valet
+707,LinkAlarm\/
+708,LinkAnalyser
+709,link-check
+710,linkCheck
+711,linkdex
+712,LinkExaminer
+713,Linkfeed\.ru
+714,linkfluence
+715,linkpeek
+716,LinkPreview
+717,LinkScan
+718,LinksManager
+719,LinkTiger
+720,LinkWalker
+721,link_thumbnailer
+722,Lipperhey
+723,Litemage_walker
+724,livedoor ScreenShot
+725,LoadImpactRload
+726,localsearch-web
+727,LongURL API
+728,longurl-r-package
+729,looid\.com
+730,looksystems\.net
+731,lscache_runner
+732,ltx71
+733,lua-resty-http
+734,Lucee \(CFML Engine\)
+735,Lush Http Client
+736,lwp-request
+737,lwp-trivial
+738,LWP::Simple
+739,lycos
+740,LYT\.SR
+741,L\.webis
+742,mabontland
+743,MacOutlook\/
+744,MagentaNews\/
+745,Mag-Net
+746,MagpieRSS
+747,Mail::STS
+748,MailChimp
+749,Mail\.Ru
+750,Mailpit\/
+751,Majestic12
+752,makecontact\/
+753,Mandrill
+754,MapperCmd
+755,marketinggrader
+756,MarkMonitor
+757,MarkWatch
+758,Mass Downloader
+759,masscan\/
+760,Mata Hari
+761,mattermost
+762,MatchorySearch\/
+763,Mediametric
+764,Mediapartners-Google
+765,mediawords
+766,MegaIndex\.ru
+767,MeltwaterNews
+768,Melvil Rawi
+769,MemGator
+770,Metaspinner
+771,MetaURI
+772,MFC_Tear_Sample
+773,Microsearch
+774,Microsoft Data Access
+775,Microsoft Office
+776,Microsoft Outlook
+777,Microsoft Windows Network Diagnostics
+778,Microsoft-WebDAV-MiniRedir
+779,Microsoft\.Data\.Mashup
+780,MicrosoftPreview
+781,MIDown tool
+782,MIIxpc
+783,Mindjet
+784,Miniature\.io
+785,Miniflux
+786,mio_httpc
+787,Miro-HttpClient
+788,Mister PiX
+789,mixdata dot com
+790,mixed-content-scan
+791,mixnode
+792,Mnogosearch
+793,ModatScanner\/[0-9]
+794,mogimogi
+795,Mojeek
+796,Mojolicious \(Perl\)
+797,Mollie
+798,monitis
+799,Monitority\/
+800,Monit\/
+801,montastic
+802,MonSpark
+803,MonTools
+804,Moreover
+805,Morfeus Fucking Scanner
+806,Morning Paper
+807,MovableType
+808,mowser
+809,Mrcgiguy
+810,Mr\.4x3 Powered
+811,MS Web Services Client Protocol
+812,MSFrontPage
+813,mShots
+814,MuckRack\/
+815,muhstik-scan
+816,MVAClient
+817,MxToolbox\/
+818,myseosnapshot
+819,nagios
+820,Najdi\.si
+821,holubem\.eu
+822,Name Intelligence
+823,NameFo\.com
+824,Nameprotect
+825,nationalarchives
+826,Navroad
+827,nbertaupete95
+828,NearSite
+829,Needle
+830,Nessus
+831,Net Vampire
+832,NetAnts
+833,NETCRAFT
+834,NetLyzer
+835,NetMechanic
+836,NetNewsWire
+837,Netpursual
+838,netresearch
+839,NetShelter ContentScan
+840,Netsparker
+841,NetSystemsResearch
+842,nettle
+843,NetTrack
+844,Netvibes
+845,NetworkingExtension
+846,NetZIP
+847,Neustar WPM
+848,NeutrinoAPI
+849,NewRelicPinger
+850,NewsBlur .*Finder
+851,NewsGator
+852,newsme
+853,newspaper\/
+854,Nexgate Ruby Client
+855,Next\.js Middleware
+856,NG-Search
+857,nghttp2
+858,Nibbler
+859,NICErsPRO
+860,NihilScio
+861,Nikto
+862,nineconnections
+863,NLNZ_IAHarvester
+864,Nmap Scripting Engine
+865,node-fetch
+866,node-superagent
+867,node-urllib
+868,Nodemeter
+869,NodePing
+870,node\.io
+871,nominet\.org\.uk
+872,nominet\.uk
+873,Norton-Safeweb
+874,Notifixious
+875,notifyninja
+876,NotionEmbedder
+877,nuhk
+878,nutch
+879,Nuzzel
+880,nWormFeedFinder
+881,nyawc\/
+882,Nymesis
+883,NYU
+884,Observatory\/
+885,Ocelli\/
+886,Octopus
+887,oegp
+888,Offline Explorer
+889,Offline Navigator
+890,odin\.com
+891,OgScrper
+892,okhttp
+893,omgili
+894,OMSC
+895,Online Domain Tools
+896,Open Source RSS
+897,OpenCalaisSemanticProxy
+898,Openfind
+899,OpenLinkProfiler
+900,Openstat\/
+901,OpenVAS
+902,OPPO A33
+903,Optimizer
+904,Orbiter
+905,OrgProbe\/
+906,orion-semantics
+907,Outlook-Express
+908,Outlook-iOS
+909,Owler
+910,Owlin
+911,ownCloud News
+912,ow\.ly
+913,OxfordCloudService
+914,page scorer
+915,Page Valet
+916,page2rss
+917,PageFreezer
+918,PageGrabber
+919,PagePeeker
+920,PageScorer
+921,Pagespeed\/
+922,PageThing
+923,page_verifier
+924,Panopta
+925,panscient
+926,Papa Foto
+927,parsijoo
+928,pathscan\/[0-9]
+929,Pavuk
+930,PayPal IPN
+931,pcBrowser
+932,Pcore-HTTP
+933,PDF24 URL To PDF
+934,Pearltrees
+935,PECL::HTTP
+936,peerindex
+937,Peew
+938,PeoplePal
+939,Perlu -
+940,PhantomJS Screenshoter
+941,PhantomJS\/
+942,Photon\/
+943,php-requests
+944,phpservermon
+945,Pi-Monster
+946,Picscout
+947,Picsearch
+948,PictureFinder
+949,Pimonster
+950,Pingability
+951,PingAdmin\.Ru
+952,Pingdom
+953,Pingoscope
+954,PingSpot
+955,ping\.blo\.gs
+956,pinterest\.com
+957,Pixray
+958,Pizilla
+959,Plagger\/
+960,PlayStore-Google
+961,Pleroma 
+962,Ploetz \+ Zeller
+963,Plukkie
+964,plumanalytics
+965,PocketImageCache
+966,PocketParser
+967,Pockey
+968,PodcastAddict\/
+969,POE-Component-Client-HTTP
+970,Polymail\/
+971,Pompos
+972,Porkbun
+973,Port Monitor
+974,postano
+975,postfix-mta-sts-resolver
+976,PostmanRuntime
+977,postplanner\.com
+978,PostPost
+979,postrank
+980,PowerPoint\/
+981,Prebid
+982,Prerender
+983,Priceonomics Analysis Engine
+984,PrintFriendly
+985,PritTorrent
+986,Prlog
+987,probely\.com
+988,probethenet
+989,Project ?25499
+990,Project-Resonance
+991,prospectb2b
+992,Protopage
+993,ProWebWalker
+994,proximic
+995,PRTG Network Monitor
+996,"pshtt, https scanning"
+997,PTST 
+998,PTST\/[0-9]+
+999,pulsetic\.com
+1000,Pump
+1001,Python-httplib2
+1002,python-httpx
+1003,python-requests
+1004,Python-urllib
+1005,Python-xmlrpc
+1006,Qirina Hurdler
+1007,QQDownload
+1008,QrafterPro
+1009,Qseero
+1010,Qualidator
+1011,QueryN Metasearch
+1012,queuedriver
+1013,quic-go-HTTP\/
+1014,QuiteRSS
+1015,Quora Link Preview
+1016,Qwantify
+1017,Radian6
+1018,RadioPublicImageResizer
+1019,Railgun\/
+1020,RankActive
+1021,RankFlex
+1022,RankSonicSiteAuditor
+1023,RapidLoad\/
+1024,Re-re Studio
+1025,ReactorNetty
+1026,Readability
+1027,RealDownload
+1028,RealPlayer%20Downloader
+1029,RebelMouse
+1030,Recorder
+1031,RecurPost\/
+1032,redback\/
+1033,ReederForMac
+1034,Reeder\/
+1035,ReGet
+1036,RepoMonkey
+1037,request\.js
+1038,reqwest\/
+1039,ResponseCodeTest
+1040,RestSharp
+1041,Riddler
+1042,Rival IQ
+1043,Robosourcer
+1044,Robozilla
+1045,ROI Hunter
+1046,RPT-HTTPClient
+1047,RSSMix\/
+1048,RSSOwl
+1049,RuxitSynthetic
+1050,RyowlEngine
+1051,safe-agent-scanner
+1052,SalesIntelligent
+1053,Saleslift
+1054,SAP NetWeaver Application Server
+1055,SauceNAO
+1056,SBIder
+1057,sc-downloader
+1058,scalaj-http
+1059,Scamadviser-Frontend
+1060,ScanAlert
+1061,scan\.lol
+1062,Scoop
+1063,scooter
+1064,ScopeContentAG-HTTP-Client
+1065,ScoutJet
+1066,ScoutURLMonitor
+1067,ScrapeBox Page Scanner
+1068,Scrapy
+1069,Screaming
+1070,ScreenShotService
+1071,Scrubby
+1072,Scrutiny\/
+1073,Search37
+1074,searchenginepromotionhelp
+1075,Searchestate
+1076,SearchExpress
+1077,SearchSight
+1078,SearchWP
+1079,search\.thunderstone
+1080,Seeker
+1081,semanticdiscovery
+1082,semanticjuice
+1083,Semiocast HTTP client
+1084,Semrush
+1085,Sendsay\.Ru
+1086,sentry\/
+1087,SEO Browser
+1088,Seo Servis
+1089,seo-nastroj\.cz
+1090,seo4ajax
+1091,Seobility
+1092,SEOCentro
+1093,SeoCheck
+1094,seocompany
+1095,SEOGets
+1096,SEOkicks
+1097,SeoLik\.ru
+1098,SEOlizer
+1099,Seomoz
+1100,SEOprofiler
+1101,seoscanners
+1102,SEOsearch
+1103,seositecheckup
+1104,SEOstats
+1105,servernfo
+1106,sexsearcher
+1107,Seznam
+1108,Shelob
+1109,Shodan
+1110,Shoppimon
+1111,ShopWiki
+1112,ShortLinkTranslate
+1113,shortURL lengthener
+1114,shrinktheweb
+1115,Sideqik
+1116,Siege
+1117,SimplePie
+1118,SimplyFast
+1119,Siphon
+1120,SISTRIX
+1121,Site Sucker
+1122,Site-Shot\/
+1123,Site24x7
+1124,SiteBar
+1125,Sitebeam
+1126,Sitebulb\/
+1127,SiteCondor
+1128,SiteExplorer
+1129,SiteGuardian
+1130,Siteimprove
+1131,SiteIndexed
+1132,Sitemap(s)? Generator
+1133,SitemapGenerator
+1134,SiteMonitor
+1135,Siteshooter B0t
+1136,SiteSnagger
+1137,SiteSucker
+1138,SiteTruth
+1139,Sitevigil
+1140,sitexy\.com
+1141,SkypeUriPreview
+1142,Slack\/
+1143,sli-systems\.com
+1144,slider\.com
+1145,slurp
+1146,SlySearch
+1147,SmartDownload
+1148,SMRF URL Expander
+1149,SMUrlExpander
+1150,Snake
+1151,Snappy
+1152,SnapSearch
+1153,Snarfer\/
+1154,SniffRSS
+1155,sniptracker
+1156,Snoopy
+1157,SnowHaze Search
+1158,sogou web
+1159,SortSite
+1160,Sottopop
+1161,sovereign\.ai
+1162,SpaceBison
+1163,SpamExperts
+1164,Spammen
+1165,Spanner
+1166,Spawning-AI
+1167,spaziodati
+1168,SPDYCheck
+1169,Specificfeeds
+1170,SpeedKit
+1171,speedy
+1172,SPEng
+1173,Spinn3r
+1174,spray-can
+1175,Sprinklr 
+1176,spyonweb
+1177,sqlmap
+1178,Sqlworm
+1179,Sqworm
+1180,SSL Labs
+1181,ssl-tools
+1182,StackRambler
+1183,Statastico\/
+1184,Statically-
+1185,StatusCake
+1186,Steeler
+1187,Stratagems Kumo
+1188,Stripe\/
+1189,Stroke\.cz
+1190,StudioFACA
+1191,StumbleUpon
+1192,suchen
+1193,Sucuri
+1194,summify
+1195,SuperHTTP
+1196,Surphace Scout
+1197,Suzuran
+1198,swcd 
+1199,Swisscows Favicons
+1200,Symfony BrowserKit
+1201,Symfony2 BrowserKit
+1202,Synapse\/
+1203,Syndirella\/
+1204,SynHttpClient-Built
+1205,Sysomos
+1206,sysscan
+1207,Szukacz
+1208,T0PHackTeam
+1209,tAkeOut
+1210,Tarantula\/
+1211,Taringa UGC
+1212,TarmotGezgin
+1213,tchelebi\.io
+1214,techiaith\.cymru
+1215,Teleport
+1216,Telesoft
+1217,Telesphoreo
+1218,Telesphorep
+1219,Tenon\.io
+1220,teoma
+1221,terrainformatica
+1222,Test Certificate Info
+1223,testuri
+1224,Tetrahedron
+1225,TextRazor Downloader
+1226,The Drop Reaper
+1227,The Expert HTML Source Viewer
+1228,The Intraformant
+1229,The Knowledge AI
+1230,theinternetrules
+1231,TheNomad
+1232,Thinklab
+1233,Thumbor
+1234,Thumbshots
+1235,ThumbSniper
+1236,timewe\.net
+1237,TinEye
+1238,Tiny Tiny RSS
+1239,TLSProbe\/
+1240,Toata
+1241,topster
+1242,touche\.com
+1243,Traackr\.com
+1244,tracemyfile
+1245,Trackuity
+1246,TrapitAgent
+1247,Trendiction
+1248,Trendsmap
+1249,trendspottr
+1250,truwoGPS
+1251,TryJsoup
+1252,TulipChain
+1253,Turingos
+1254,Turnitin
+1255,tweetedtimes
+1256,Tweetminster
+1257,Tweezler\/
+1258,twibble
+1259,Twice
+1260,Twikle
+1261,Twingly
+1262,Twisted PageGetter
+1263,Typhoeus
+1264,ubermetrics-technologies
+1265,uclassify
+1266,UdmSearch
+1267,ultimate_sitemap_parser
+1268,unchaos
+1269,undici
+1270,unirest-java
+1271,UniversalFeedParser
+1272,unshortenit
+1273,Unshorten\.It
+1274,Untiny
+1275,UnwindFetchor
+1276,updated
+1277,updown\.io daemon
+1278,Upflow
+1279,Uptimia
+1280,URL Verifier
+1281,Urlcheckr
+1282,URLitor
+1283,urlresolver
+1284,Urlstat
+1285,URLTester
+1286,UrlTrends Ranking Updater
+1287,URLy Warning
+1288,URLy\.Warning
+1289,URL\/Emacs
+1290,Vacuum
+1291,Vagabondo
+1292,VB Project
+1293,vBSEO
+1294,VCI
+1295,Verity
+1296,via ggpht\.com GoogleImageProxy
+1297,Virusdie
+1298,visionutils
+1299,Visual Rights Group
+1300,vkShare
+1301,VoidEYE
+1302,Voil
+1303,voltron
+1304,voyager\/
+1305,VSAgent\/
+1306,VSB-TUO\/
+1307,Vulnbusters Meter
+1308,VYU2
+1309,w3af\.org
+1310,W3C-checklink
+1311,W3C-mobileOK
+1312,W3C_Unicorn
+1313,WAC-OFU
+1314,WakeletLinkExpander
+1315,WallpapersHD
+1316,Wallpapers\/[0-9]+
+1317,wangling
+1318,Wappalyzer
+1319,WatchMouse
+1320,WbSrch\/
+1321,WDT\.io
+1322,Web Auto
+1323,Web Collage
+1324,Web Downloader\/[0-9]
+1325,Web Enhancer
+1326,Web Fetch
+1327,Web Fuck
+1328,Web Pix
+1329,Web Sauger
+1330,Web spyder
+1331,Web Sucker
+1332,web-capture\.net
+1333,Web-sniffer
+1334,Webalta
+1335,Webauskunft
+1336,WebAuto
+1337,WebCapture
+1338,WebClient\/
+1339,webcollage
+1340,WebCookies
+1341,WebCopier
+1342,WebCorp
+1343,WebDataStats
+1344,WebDoc
+1345,WebEnhancer
+1346,WebFetch
+1347,WebFuck
+1348,WebGazer
+1349,WebGo IS
+1350,WebImageCollector
+1351,WebImages
+1352,WebIndex
+1353,webkit2png
+1354,WebLeacher
+1355,webmastercoffee
+1356,webmon 
+1357,WebPix
+1358,WebReaper
+1359,WebSauger
+1360,webscreenie
+1361,Webshag
+1362,Webshot
+1363,Website Quester
+1364,websitepulse agent
+1365,WebsiteQuester
+1366,Websnapr
+1367,WebSniffer
+1368,Webster
+1369,WebStripper
+1370,WebSucker
+1371,webtech\/
+1372,WebThumbnail
+1373,Webthumb\/
+1374,WebWhacker
+1375,WebZIP
+1376,WeLikeLinks
+1377,WEPA
+1378,WeSEE
+1379,wf84
+1380,Wfuzz\/
+1381,wget
+1382,WhatCMS
+1383,WhatsApp
+1384,WhatsMyIP
+1385,WhatWeb
+1386,WhereGoes\?
+1387,Whibse
+1388,WhoAPI\/
+1389,WhoRunsCoinHive
+1390,Whynder Magnet
+1391,Windows-RSS-Platform
+1392,WinHttp-Autoproxy-Service
+1393,WinHTTP\/
+1394,WinPodder
+1395,wkhtmlto
+1396,wmtips
+1397,Woko
+1398,Wolfram HTTPClient
+1399,woorankreview
+1400,WordPress\/
+1401,WordupinfoSearch
+1402,Word\/
+1403,worldping-api
+1404,wotbox
+1405,WP Engine Install Performance API
+1406,WP Rocket
+1407,wpif
+1408,wprecon\.com survey
+1409,WPScan
+1410,wscheck
+1411,Wtrace
+1412,WWW-Collector-E
+1413,WWW-Mechanize
+1414,WWW::Document
+1415,WWW::Mechanize
+1416,WWWOFFLE
+1417,www\.monitor\.us
+1418,x09Mozilla
+1419,x22Mozilla
+1420,XaxisSemanticsClassifier
+1421,XenForo\/
+1422,Xenu Link Sleuth
+1423,XING-contenttabreceiver
+1424,xpymep([0-9]?)\.exe
+1425,Y!J-[A-Z][A-Z][A-Z]
+1426,Yaanb
+1427,yacy
+1428,Yahoo Link Preview
+1429,YahooCacheSystem
+1430,YahooMailProxy
+1431,YahooYSMcm
+1432,YandeG
+1433,Yandex(?!Search)
+1434,yanga
+1435,yeti
+1436,Yo-yo
+1437,Yoleo Consumer
+1438,yomins\.com
+1439,yoogliFetchAgent
+1440,YottaaMonitor
+1441,Your-Website-Sucks
+1442,yourls\.org
+1443,YoYs\.net
+1444,YP\.PL
+1445,Zabbix
+1446,Zade
+1447,Zao
+1448,Zapier
+1449,Zauba
+1450,Zemanta Aggregator
+1451,Zend\\Http\\Client
+1452,Zend_Http_Client
+1453,Zermelo
+1454,Zeus 
+1455,zgrab
+1456,ZnajdzFoto
+1457,ZnHTTP
+1458,Zombie\.js
+1459,Zoom\.Mac
+1460,ZoteroTranslationServer
+1461,ZyBorg
+1462,[a-z0-9\-_]*(bot|crawl|headless|archiver|transcoder|spider|uptime|validator|fetcher|cron|checker|reader|extractor|monitoring|analyzer|scraper)
