@@ -1,11 +1,8 @@
 # bot-detection-aep
 
-[![Tests](https://github.com/<your-org>/bot-detection-aep/actions/workflows/tests.yml/badge.svg)](https://github.com/<your-org>/bot-detection-aep/actions/workflows/tests.yml)
+[![Tests](https://github.com/matmanu/bot-detection-aep/actions/workflows/tests.yml/badge.svg)](https://github.com/matmanu/bot-detection-aep/actions/workflows/tests.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-
-*(Replace `<your-org>` above with your actual GitHub org/username once this is pushed - the badge
-won't render correctly until then.)*
 
 An ensemble User-Agent bot classifier - usable as a **standalone Python library** with zero
 Adobe-specific dependencies, plus an **optional integration layer** for Adobe Experience Platform
