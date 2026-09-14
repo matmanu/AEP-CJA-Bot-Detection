@@ -5,8 +5,8 @@ Issues and pull requests are welcome — from small pattern fixes to larger chan
 ## Setup
 
 ```bash
-git clone <this-repo>
-cd bot-detection-aep
+git clone https://github.com/matmanu/AEP-CJA-Bot-Detection.git
+cd AEP-CJA-Bot-Detection
 python -m venv .venv && source .venv/bin/activate
 pip install -e ".[all]"
 pytest tests/ -v
